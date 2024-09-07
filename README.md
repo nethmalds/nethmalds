@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,mongodb,vscode,aws,visualstudio,figma,photoshop,illustrator,premiere pro,adobe&theme=dark&perline=5"/>
  </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmalds&theme=highcontrast&layout=compact&langs_count=5&hide_border=true" alt="Top Languages">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmalds&theme=highcontrast&layout=compact&langs_count=5&hide_border=true" alt="Top Languages">-->
 
 
 ![Top Langs](https://streak-stats.demolab.com?user=nethmalds&theme=highcontrast&hide_border=true)
