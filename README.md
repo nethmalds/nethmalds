@@ -6,7 +6,7 @@
 
 
 
-- I'm a passionate Computer Science undergraduate at the University of Plymouth. I have a strong passion for UI/UX design and full-stack development. I work with languages like C, C#, JavaScript, PHP, HTML, CSS, and Python to create functional and intuitive applications. On the database side, I’m familiar with MongoDB, MySQL, and Microsoft SQL.
+- I'm a passionate Computer Science undergraduate at the University of Plymouth. I have a strong passion for UI/UX design and full-stack development. I work with languages like C, C++, C#, JavaScript, PHP, HTML, CSS, and Python to create functional and intuitive applications. On the database side, I’m familiar with MongoDB, MySQL, and Microsoft SQL.
 
 - In addition to coding, I love working on the creative side, too. I use tools like Photoshop, Illustrator, and Premiere Pro for graphic design and video editing. I'm all about building user-friendly digital experiences and bringing innovative ideas to life!
 
