@@ -22,7 +22,7 @@
  </a>
 </p>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmalds&theme=highcontrast&layout=compact&langs_count=5&hide_border=true" alt="Top Languages">-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmalds&theme=highcontrast&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="All Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/langs/?username=nethmalds&theme=highcontrast&hide_border=true&no-bg=true&no-frame=true&langs_count=15" alt="All Languages" />
 
 
 ![Top Langs](https://streak-stats.demolab.com?user=nethmalds&theme=highcontrast&hide_border=true)
