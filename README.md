@@ -17,6 +17,7 @@
 
 
 <p align="center">
+  <a href= "https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,c,cs,cpp,dotnet,azure,git,github,tailwind,bootstrap,mysql,mongodb,vscode,aws,visualstudio,figma,photoshop,illustrator,premiere pro,adobe&theme=dark&perline=5"/>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,c,cs,cpp,dotnet,azure,git,github,tailwind,bootstrap,mysql,mongodb,vscode,aws,visualstudio,figma,photoshop,illustrator,premiere pro,adobe&theme=dark&perline=5"/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmalds&theme=highcontrast&layout=compact&langs_count=5&hide_border=true" alt="Top Languages">
