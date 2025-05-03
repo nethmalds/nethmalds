@@ -52,7 +52,8 @@ I’m all about building user-friendly digital experiences and bringing innovati
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dasun-sri" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:nethmalsri@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/nethmalds"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:dsnconstruction.19
+    @gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/nethm_al20"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
