@@ -16,12 +16,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a passionate **Computer Science undergraduate** at the **University of Plymouth**
-- 💻 I love building modern **full-stack applications** and crafting seamless **UI/UX experiences**
-- 🧠 Languages: `C`, `C++`, `C#`, `Typescript`, `JavaScript`, `PHP`, `Python`, `HTML`, `CSS`
-- 🗄️ Databases: `MongoDB`, `MySQL`, `Microsoft SQL`
-- 🛠️ Tools: `Next.js`,`Laravel`,`React`, `Node.js`, `.NET`, `Tailwind`, `Bootstrap`
-- 🎨 I’m also a creative mind working with:
+- I'm a passionate **Computer Science undergraduate** at the **University of Plymouth**
+- I love building modern **full-stack applications** and crafting seamless **UI/UX experiences**
+- Languages: `C`, `C++`, `C#`, `Typescript`, `JavaScript`, `PHP`, `Python`, `HTML`, `CSS`
+- Databases: `MongoDB`, `MySQL`, `Microsoft SQL`
+- Tools: `Next.js`,`Laravel`,`React`, `Node.js`, `.NET`, `Tailwind`, `Bootstrap`
+- I’m also a creative mind working with:
   - `Photoshop`, `Illustrator`, `Premiere Pro`, `After Effects`
 
 I’m all about building user-friendly digital experiences and bringing innovative ideas to life 💡
